@@ -17,6 +17,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 [Mohammad](https://github.com/corpsema).<br />
+Copyright © 2021 (https://github.com/corpsema).<br />
 This project is [GNU General Public License ](https://github.com/corpsema/SystemRealibility/blob/main/LICENSE) licensed.
 
